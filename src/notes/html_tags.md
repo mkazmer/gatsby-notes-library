@@ -1,7 +1,7 @@
 ---
 slug: '/html/tags'
 title: 'HTML Tags'
-date: 'November 29 2019'
+date: 'November 29th 2019'
 ---
 
 Resources
