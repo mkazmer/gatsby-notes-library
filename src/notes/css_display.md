@@ -9,25 +9,23 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/display
 https://www.w3schools.com/cssref/pr_class_display.asp
 
 #Block
-    Container that takes up the full width
+    Takes up full row of parent container - examples are <div> & <p>
 
 #Inline
-    Container that takes up only width required (height and width have no affect)
+    Placed in natural document flow without page breaks - width and hieght do no have any affect - examples are <span> & <a>
 
-#Inline-block
-    Containe that takes up only width required (height and width have affect)
-
-#Flex
-    Flexbox container
-
-#Inherit
-    Inherits display value from parent container
+#Inline-Block
+    Same as Inline, but width and height have affect
 
 #None
-    Removes container
+    Removed from document flow
+
+#Initial
+    Sets to defaul of that node type
+
+#Inherit
+    Inherits display from parent element
+
+#Flex
 
 #Grid
-    Creates grid container
-
-#Table
-    Creates table container
